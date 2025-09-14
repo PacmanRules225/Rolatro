@@ -1,3 +1,21 @@
-# Rolatro (A Roblox X Balatro Mod)
-This mod adds various aspects of the popular online game Roblox to Balatro, ranging from the modern, to the nostalgic, to the... controversial. Aside from new Jokers, seals, and more, this mod also adds two new consumables called Gears and Experiences.
-It is RECOMMENDED to turn on Pixel Art Smoothing as a majority of the Rolatro textures are 142 by 190 pixels. Don't say I didn't warn you if you have it off.
+# Rolatro (A Roblox X Balatro Mod) (Public Beta)
+***THIS MOD IS IN BETA. BUGS AND IMBALANCED FEATURES ARE TO BE EXPECTED. IF YOU NEED TO REPORT ANY BUGS OR MAKE SUGGESTIONS SUCH AS NEW FEATURES AND/OR BALANCING CHANGES, DO SO VIA THE ISSUES SECTION OF THE PAGE.***
+<img width="1024" height="600" alt="CnP_13092025_184534" src="https://github.com/user-attachments/assets/c4a16cd1-d28f-4bfa-84f3-5c3f72660da1" />
+This mod adds various aspects of the popular online game Roblox to Balatro, ranging from the modern, to the nostalgic, to the... controversial.
+
+This mod also adds 2 new consumable types: Experiences and Gear.
+
+**It is RECOMMENDED to turn on Pixel Art Smoothing because a majority of the Rolatro textures are 142 by 190 pixels. 	<ins>Don't say I didn't warn you if you have it off.	</ins>**
+
+Requires [Steamodded](https://github.com/Steamodded/smods). Mod made with [Joker Forge](https://github.com/Jayd-H/joker-forge).
+
+## Currently includes (as of now):
+- 24 Jokers
+- 3 Tarots
+- 1 Spectral
+- 6 Gear
+- 9 Experiences
+- 12 Booster Packs
+- 1 Enhancement
+- 5 Seals
+- 2 Editions
