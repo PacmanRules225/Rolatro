@@ -13,8 +13,8 @@ This mod also adds 2 new consumable types: Experiences and Gear.
 Requires [Steamodded](https://github.com/Steamodded/smods). Mod made with [Joker Forge](https://github.com/Jayd-H/joker-forge).
 
 ## Currently includes (as of now):
-- 24 Jokers
-- 3 Tarots
+- 23 Jokers
+- 2 Tarots
 - 1 Spectral
 - 6 Gear
 - 9 Experiences
