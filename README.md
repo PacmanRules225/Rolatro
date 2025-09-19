@@ -22,3 +22,19 @@ Requires [Steamodded](https://github.com/Steamodded/smods). Mod made with [Joker
 - 1 Enhancement
 - 5 Seals
 - 2 Editions
+
+## Credits
+### Rolatro
+- PacmanRules225: Mod Creator
+### Joker Forge
+- [Jayd-H](https://github.com/Jayd-H): Joker Forge Creator
+### Featured Roblox Games
+- Make a Cake series: thebenster
+- Grow a Garden: The Garden Game (group)
+- Jailbreak: Badimo
+- Pet Simulator 99: BIG Games
+- Steal a Brainrot: BRAZILIAN SPYDER (group)
+- Work at a Pizza Place: Dued1
+
+### Special Thanks
+- LocalThunk: Creating Balatro
