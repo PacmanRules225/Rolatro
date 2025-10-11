@@ -13,15 +13,16 @@ This mod also adds 2 new consumable types: Experiences and Gear.
 Requires [Steamodded](https://github.com/Steamodded/smods). Mod made with [Joker Forge](https://github.com/Jayd-H/joker-forge).
 
 ## Currently includes (as of now):
-- 23 Jokers
+- 36 Jokers
 - 2 Tarots
 - 1 Spectral
-- 6 Gear
-- 9 Experiences
-- 12 Booster Packs
-- 1 Enhancement
-- 5 Seals
+- 9 Gears
+- 12 Experiences
+- 20 Booster Packs
+- 2 Enhancements
+- 9 Seals
 - 2 Editions
+- 9 Vouchers
 
 ## Credits
 ### Rolatro
@@ -32,9 +33,14 @@ Requires [Steamodded](https://github.com/Steamodded/smods). Mod made with [Joker
 - Make a Cake series: thebenster
 - Grow a Garden: The Garden Game (group)
 - Jailbreak: Badimo
-- Pet Simulator 99: BIG Games
+- Pet Simulator 99: BIG Games (group)
 - Steal a Brainrot: BRAZILIAN SPYDER (group)
 - Work at a Pizza Place: Dued1
+- DOORS: LSPLASH (group)
+- get a snack at 4 am: Stixxal
+- My Movie: Good Ape (group)
+- Haunted Mansion: Shedletsky
+- Forsaken: Forsaken Dev Team (group)
 
 ### Special Thanks
 - LocalThunk: Creating Balatro
