@@ -12,18 +12,6 @@ This mod also adds 2 new consumable types: Experiences and Gear.
 
 Requires [Steamodded](https://github.com/Steamodded/smods). Mod made with [Joker Forge](https://github.com/Jayd-H/joker-forge).
 
-## Currently includes (as of now):
-- 36 Jokers
-- 2 Tarots
-- 1 Spectral
-- 9 Gears
-- 12 Experiences
-- 20 Booster Packs
-- 2 Enhancements
-- 9 Seals
-- 2 Editions
-- 9 Vouchers
-
 ## Credits
 ### Rolatro
 - PacmanRules225: Mod Creator
@@ -41,6 +29,8 @@ Requires [Steamodded](https://github.com/Steamodded/smods). Mod made with [Joker
 - My Movie: Good Ape (group)
 - Haunted Mansion: Shedletsky
 - Forsaken: Forsaken Dev Team (group)
+- Block Tales: Spaceman Moonbase (group)
+- Dandy's World: BlushCrunch Studio (group)
 
 ### Special Thanks
 - LocalThunk: Creating Balatro
