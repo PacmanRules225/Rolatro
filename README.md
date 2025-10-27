@@ -3,14 +3,16 @@
 
 ATTENTION: If you are using the Balatro Mod Manager, do NOT click on "Get Official Version". It will replace the mod with [Rofflatro](https://github.com/MamiKeRiko/Rofflatro).
 
-<img width="1024" height="600" alt="CnP_13092025_184534" src="https://github.com/user-attachments/assets/c4a16cd1-d28f-4bfa-84f3-5c3f72660da1" />
+<img width="666" height="432" alt="image" src="https://github.com/user-attachments/assets/8659ef62-fd99-454d-951f-73ef2e414f4a" />
+
 This mod adds various aspects of the popular online game Roblox to Balatro, ranging from the modern, to the nostalgic, to the... controversial.
+
 
 This mod also adds 2 new consumable types: Experiences and Gear.
 
 **It is RECOMMENDED to turn on Pixel Art Smoothing because a majority of the Rolatro textures are 142 by 190 pixels. 	<ins>Don't say I didn't warn you if you have it off.	</ins>**
 
-Requires [Steamodded](https://github.com/Steamodded/smods). Mod made with [Joker Forge](https://github.com/Jayd-H/joker-forge).
+Requires [Steamodded](https://github.com/Steamodded/smods) and [Talisman](https://github.com/SpectralPack/Talisman). Mod made with [Joker Forge](https://github.com/Jayd-H/joker-forge).
 
 ## Credits
 ### Rolatro
@@ -31,6 +33,7 @@ Requires [Steamodded](https://github.com/Steamodded/smods). Mod made with [Joker
 - Forsaken: Forsaken Dev Team (group)
 - Block Tales: Spaceman Moonbase (group)
 - Dandy's World: BlushCrunch Studio (group)
+- 99 Nights in the Forest: Grandma's Favourite Games (group)
 
 ### Special Thanks
 - LocalThunk: Creating Balatro
