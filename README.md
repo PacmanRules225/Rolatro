@@ -35,5 +35,6 @@ Requires [Steamodded](https://github.com/Steamodded/smods) and [Talisman](https:
 - Dandy's World: BlushCrunch Studio (group)
 - 99 Nights in the Forest: Grandma's Favourite Games (group)
 
+If you don't want your game in the mod, please let me know.
 ### Special Thanks
 - LocalThunk: Creating Balatro
