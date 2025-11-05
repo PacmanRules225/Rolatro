@@ -8,7 +8,7 @@ ATTENTION: If you are using the Balatro Mod Manager, do NOT click on "Get Offici
 This mod adds various aspects of the popular online game Roblox to Balatro, ranging from the modern, to the nostalgic, to the... controversial.
 
 
-This mod also adds 2 new consumable types: Experiences and Gear.
+This mod also adds 3 new consumable types: Experiences, Gear, and Gamepasses.
 
 **It is RECOMMENDED to turn on Pixel Art Smoothing because a majority of the Rolatro textures are 142 by 190 pixels. 	<ins>Don't say I didn't warn you if you have it off.	</ins>**
 
@@ -34,6 +34,7 @@ Requires [Steamodded](https://github.com/Steamodded/smods) and [Talisman](https:
 - Block Tales: Spaceman Moonbase (group)
 - Dandy's World: BlushCrunch Studio (group)
 - 99 Nights in the Forest: Grandma's Favourite Games (group)
+- Catalog Heaven: Sky Studios (Group)
 
 If you don't want your game in the mod, please let me know.
 ### Special Thanks
