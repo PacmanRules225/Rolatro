@@ -30,12 +30,16 @@ Requires [Steamodded](https://github.com/Steamodded/smods) and [Talisman](https:
 - get a snack at 4 am: Stixxal
 - My Movie: Good Ape (group)
 - Haunted Mansion: Shedletsky
-- Forsaken: Forsaken Dev Team (group)
 - Block Tales: Spaceman Moonbase (group)
 - Dandy's World: BlushCrunch Studio (group)
 - 99 Nights in the Forest: Grandma's Favourite Games (group)
 - Catalog Heaven: Sky Studios (Group)
+- Murder Mystery 2: Nikilis
+#### Crossover Jokers
+- you don't wanna see me infuriated: You Don't Wanna See Us (group)
+- LOCOfficial!: Rawblocky
 
 If you don't want your game in the mod, please let me know.
 ### Special Thanks
 - LocalThunk: Creating Balatro
+- Yahiamice: [Yahimod](https://github.com/Yahiamice/yahimod-balatro)
