@@ -43,3 +43,6 @@ If you don't want your game in the mod, please let me know.
 ### Special Thanks
 - LocalThunk: Creating Balatro
 - Yahiamice: [Yahimod](https://github.com/Yahiamice/yahimod-balatro)
+
+## Expansion Packs
+- [Catalog Expansion Pack](https://github.com/PacmanRules225/Rolatro-Catalog-Expansion-Pack)
